@@ -1,0 +1,47 @@
+[
+        {
+                "id": 1,
+                "edificio": "Casa",
+                "zona": "Barrio Glaxo"
+        },
+        {
+                "id": 2,
+                "edificio": "P.H.",
+                "zona": "Zona Sur"
+        },
+        {
+                "id": 3,
+                "edificio": "Depto. Edificio",
+                "zona": "Barrio Privado"
+        },
+        {
+                "id": 4,
+                "edificio": "Barrio Cerrado",
+                "zona": "Barrio Los Alerces"
+        },
+        {
+                "id": 5,
+                "edificio": "Local Comercial",
+                "zona": "Zona Centro"
+        },
+        {
+                "id": 6,
+                "edificio": "Depósito Logística",
+                "zona": "Barrio Privado"
+        },
+        {
+                "id": 7,
+                "edificio": "Casaquinta",
+                "zona": "Zona Rural"
+        },
+        {
+                "id": 8,
+                "edificio": "Monoambiente",
+                "zona": "Zona Industrial"
+        },
+        {
+                "id": 9,
+                "edificio": "Huerta Agroecologica",
+                "zona": "Circunvalacion"
+        }
+]

@@ -1,0 +1,10 @@
+{local.map(ver => {
+                            return (
+                                <tr key={ver.propiedad}>
+                                    <td>{ver.propiedad}</td>
+                                    <td>{ver.ubicacion}</td>
+                                    <td>{ver.metrosCuadrados}</td>
+                                    <td>{'$' + ver.poliza}</td>
+                                </tr>
+                            );
+                        })};      

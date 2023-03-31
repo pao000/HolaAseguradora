@@ -1,0 +1,28 @@
+.footer {
+    display: block;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    background-color: #fefefe;
+    border-radius: 0;
+    border-color: #fff;
+    margin-top: 2em;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 0.3em;
+}
+
+.historial-link {
+    background: #fefefe;
+    border: none;
+    padding: 0.5em;
+    background-color: #3b038a;
+    color: #fefefe;
+    border-radius: 0.3em;
+    margin: 1em;
+    text-transform: uppercase;
+}
+
+.ocultar{
+    display: none;
+}
